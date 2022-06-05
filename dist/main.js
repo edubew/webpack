@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Wherever life plants you, bloom with grace")})();
