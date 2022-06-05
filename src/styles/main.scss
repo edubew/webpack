@@ -5,3 +5,29 @@ body {
   color: $text;
   background: $bg;
 }
+
+.container {
+  width: 60vw;
+  height: auto;
+  background: #fff;
+  margin: 12%;
+  border-radius: 10px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.quote {
+  margin: 3%;
+  color: #000;
+}
+
+.btn {
+  padding: 11px;
+  border-radius: 12px;
+  margin-top: 20%;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-bottom: 24px;
+}
